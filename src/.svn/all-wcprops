@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/cours/inf3990-01/!svn/ver/155/livrable_final/src
+END
+downloader.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/downloader.c
+END
+opb_dio4_affich.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/opb_dio4_affich.c
+END
+interface.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/interface.c
+END
+audiobuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/audiobuffer.h
+END
+downloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/downloader.h
+END
+opb_dio4_affich.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/opb_dio4_affich.h
+END
+interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/interface.h
+END
+queues.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/queues.c
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/config.h
+END
+queues.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/queues.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/main.c
+END
+mp3decoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/mp3decoder.c
+END
+scaling.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/scaling.h
+END
+base64decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/base64decode.c
+END
+mp3decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/mp3decoder.h
+END
+audiobuffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/audiobuffer.c
+END
+base64decode.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/base64decode.h
+END

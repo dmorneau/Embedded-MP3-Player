@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/madlib
+END
+layer3.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/madlib/layer3.c
+END
+frame.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/madlib/frame.h
+END
+fixed.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/madlib/fixed.c
+END
+qc_table.dat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/madlib/qc_table.dat
+END
+stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/madlib/stream.h
+END
+fixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/madlib/fixed.h
+END
+layer3.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/madlib/layer3.h
+END
+global.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/madlib/global.h
+END
+decoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/madlib/decoder.c
+END
+sf_table.dat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/madlib/sf_table.dat
+END
+synth.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/madlib/synth.c
+END
+mad.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/madlib/mad.h
+END
+imdct_s.dat
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/madlib/imdct_s.dat
+END
+D.dat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/madlib/D.dat
+END
+decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/madlib/decoder.h
+END
+synth.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/madlib/synth.h
+END
+bit.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/madlib/bit.c
+END
+layer12.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/madlib/layer12.c
+END
+rq_table.dat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/madlib/rq_table.dat
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/madlib/timer.c
+END
+bit.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/madlib/bit.h
+END
+layer12.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/madlib/layer12.h
+END
+huffman.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/madlib/huffman.c
+END
+timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/madlib/timer.h
+END
+version.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/madlib/version.c
+END
+huffman.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/madlib/huffman.h
+END
+frame.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/madlib/frame.c
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/madlib/version.h
+END
+stream.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/cours/inf3990-01/!svn/ver/155/livrable_final/src/madlib/stream.c
+END
