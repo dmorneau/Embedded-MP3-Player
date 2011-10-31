@@ -1,5 +1,5 @@
 Embedded MP3 downloader/decoder
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===============================
 
 This code implements an MP3 decoder that runs on a single soft
 processor (Xilinx MicroBlaze). The MP3 decoder fetches music files
